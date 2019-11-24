@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SleepAsASymptom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_input_data">SleepAsASymptom</string>
+    <string-array name="input_type_arrays">
+        <item>Manual</item>
+        <item>Fitbit</item>
+        <item>Apple Watch</item>
+    </string-array>
+    <string-array name="quality_arrays">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string name="title_activity_main2">SleepAsASymptom</string>
+</resources>
